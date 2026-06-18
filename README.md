@@ -1,7 +1,5 @@
 # Hi, I'm Anton
 
-Audiobook recording engineer and studio coordinator in Tallinn, Estonia — and a full-stack developer who builds.
-
 By day I record, direct, and edit audiobooks. The rest of the time I think of and build the pipelines and tools that could automate the work: an Estonian-language audiobook production platform, an NLP processing service, QA tooling, and reporting automation.
 
 ### What I'm working on
